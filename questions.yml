@@ -1,0 +1,319 @@
+# Antegria cities
+- Question: Where is "St. Marmero" located?
+  Correct: Antegria
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Where is "Glorian" located?
+  Correct: Antegria
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Where is "Outer Grouse" located?
+  Correct: Antegria
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+
+# Arstotzka cities
+- Question: Where is "Orvech Vonor" located?
+  Correct: Arstotzka
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Where is "East Grestin" located?
+  Correct: Arstotzka
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Where is "Paradizna" located?
+  Correct: Arstotzka
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+
+# Impor cities
+- Question: Where is "Enkyo" located?
+  Correct: Impor
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Where is "Haihan" located?
+  Correct: Impor
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Where is "Tsunkeido" located?
+  Correct: Impor
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+
+# Kolechia cities
+- Question: Where is "Yurko City" located?
+  Correct: Kolechia
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Where is "Vedor" located?
+  Correct: Kolechia
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Where is "West Grestin" located?
+  Correct: Kolechia
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+
+# Obristan cities
+- Question: Where is "Skal" located?
+  Correct: Obristan
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Where is "Lorndaz" located?
+  Correct: Obristan
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Where is "Mergerous" located?
+  Correct: Obristan
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+
+# Republia cities
+- Question: Where is "True Glorian" located?
+  Correct: Republia
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Where is "Lesrenadi" located?
+  Correct: Republia
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Where is "Bostan" located?
+  Correct: Republia
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+
+# United Federation cities
+- Question: Where is "Great Rapid" located?
+  Correct: United Federation
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Where is "Shingleton" located?
+  Correct: United Federation
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Where is "Korista City" located?
+  Correct: United Federation
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+##########
+# Images #
+##########
+
+- Question: Which country's emblem is this?
+  Image: imgs\Antegria_emblem.png
+  Correct: Antegria
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Which country's emblem is this?
+  Image: imgs\Impor.png
+  Correct: Impor
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Which country's emblem is this?
+  Image: imgs\Kolechia_emblem.png
+  Correct: Kolechia
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Which country's emblem is this?
+  Image: imgs\Obristan.png
+  Correct: Obristan
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Which country's emblem is this?
+  Image: imgs\Republia.png
+  Correct: Republia
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
+
+- Question: Which country's emblem is this?
+  Image: imgs\United_federation.png
+  Correct: United Federation
+  Answers:
+  - Antegria
+  - Arstotzka
+  - Impor
+  - Kolechia
+  - Obristan
+  - Republia
+  - United Federation
